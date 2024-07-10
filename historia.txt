@@ -1,0 +1,5 @@
+nombre andres rivero
+
+edad 28
+
+ciudad Bogota

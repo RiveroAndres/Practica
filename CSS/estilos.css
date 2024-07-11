@@ -1,18 +1,4 @@
-<<<<<<< HEAD
-body
-{
-    color: rgb(107, 214, 151);
-    text-align: center;
-    font-family: 'Courier New';
-}
-#container{
-    width : 70%;
-    padding : 1cm;
-    text-align: left;
-    border: 1px solid  rgb(156, 109, 211);
-    margin : 0 auto;
-    
-=======
+
 body {
   color: #333;
   text-align: center;
@@ -46,5 +32,5 @@ body {
 }
 #post {
   padding: 1em;
->>>>>>> cabecera
+
 }
